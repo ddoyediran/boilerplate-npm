@@ -1,5 +1,6 @@
 {
   "author": "Damilare O.",
+  "description ": "Working on a lesson on freeCodeCamp academy",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
